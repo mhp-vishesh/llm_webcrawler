@@ -1,0 +1,10 @@
+streamlit
+requests
+beautifulsoup4
+faiss-cpu
+pickle5
+langchain
+langchain-community
+sentence-transformers>=2.2.2
+sentencepiece
+accelerate
